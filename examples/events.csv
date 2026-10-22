@@ -1,0 +1,7 @@
+event_id,user_id,occurred_at,event_type
+e1,u1,2026-10-01T08:00:00Z,signup
+e2,u2,2026-10-01T09:00:00Z,signup
+e3,u1,2026-10-02T10:00:00Z,view
+e4,u1,2026-10-08T10:00:00Z,purchase
+e5,u2,2026-10-03T10:00:00Z,view
+
